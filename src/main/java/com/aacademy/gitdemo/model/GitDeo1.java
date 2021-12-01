@@ -1,5 +1,4 @@
 package com.aacademy.gitdemo.model;
 
-public class GitDemo {
-
+public class GitDeo1 {
 }
